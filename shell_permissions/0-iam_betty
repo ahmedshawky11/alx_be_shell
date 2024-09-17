@@ -1,2 +1,2 @@
-$ su betty
-$
+root@b3518568e6f6:/# #!/bin/bash
+root@b3518568e6f6:/# su betty
