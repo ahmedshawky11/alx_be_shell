@@ -1,3 +1,2 @@
-chmod +x hello
-chmod g+x hello
-chmod o+r hello
+#!/bin/bash
+-rwxr-xr--
